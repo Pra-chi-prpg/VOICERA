@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather input="speech" timeout="5" speechTimeout="auto" action="/voice" method="POST">
+        <Play>{{ mp3_url }}</Play>
+       
+    </Gather>
+    <Say>Goodbye!</Say>
+</Response> 

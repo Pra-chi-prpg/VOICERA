@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+httpx
+langdetect
+edge-tts
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+sentence-transformers
+PyMuPDF
+faiss-cpu
